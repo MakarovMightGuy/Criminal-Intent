@@ -1,0 +1,53 @@
+com/example/mightguy/criminalintentdemo/database/CrimeDbSchema.java
+ com.example.mightguy.criminalintentdemo.database.CrimeDbSchema
+ com.example.mightguy.criminalintentdemo.database.CrimeDbSchema$CrimeTable
+ com.example.mightguy.criminalintentdemo.database.CrimeDbSchema$CrimeTable$Cols
+com/example/mightguy/criminalintentdemo/BuildConfig.java
+ com.example.mightguy.criminalintentdemo.BuildConfig
+com/example/mightguy/criminalintentdemo/CrimeLab.java
+ com.example.mightguy.criminalintentdemo.CrimeLab
+com/example/mightguy/criminalintentdemo/Crime.java
+ com.example.mightguy.criminalintentdemo.Crime
+com/example/mightguy/criminalintentdemo/PictureUtils.java
+ com.example.mightguy.criminalintentdemo.PictureUtils
+com/example/mightguy/criminalintentdemo/database/CrimeBaseHelper.java
+ com.example.mightguy.criminalintentdemo.database.CrimeBaseHelper
+com/example/mightguy/criminalintentdemo/database/CrimeCursorWrapper.java
+ com.example.mightguy.criminalintentdemo.database.CrimeCursorWrapper
+com/example/mightguy/criminalintentdemo/CrimeActivity.java
+ com.example.mightguy.criminalintentdemo.CrimeActivity
+com/example/mightguy/criminalintentdemo/TimePickerFragment.java
+ com.example.mightguy.criminalintentdemo.TimePickerFragment
+ com.example.mightguy.criminalintentdemo.TimePickerFragment$1
+com/example/mightguy/criminalintentdemo/SingleFragmentActivity.java
+ com.example.mightguy.criminalintentdemo.SingleFragmentActivity
+com/example/mightguy/criminalintentdemo/DatePickerFragment.java
+ com.example.mightguy.criminalintentdemo.DatePickerFragment
+ com.example.mightguy.criminalintentdemo.DatePickerFragment$1
+com/example/mightguy/criminalintentdemo/ZoomedPhotoFragment.java
+ com.example.mightguy.criminalintentdemo.ZoomedPhotoFragment
+com/example/mightguy/criminalintentdemo/CrimePagerActivity.java
+ com.example.mightguy.criminalintentdemo.CrimePagerActivity
+ com.example.mightguy.criminalintentdemo.CrimePagerActivity$1
+ com.example.mightguy.criminalintentdemo.CrimePagerActivity$2
+ com.example.mightguy.criminalintentdemo.CrimePagerActivity$3
+ com.example.mightguy.criminalintentdemo.CrimePagerActivity$4
+com/example/mightguy/criminalintentdemo/CrimeFragment.java
+ com.example.mightguy.criminalintentdemo.CrimeFragment
+ com.example.mightguy.criminalintentdemo.CrimeFragment$1
+ com.example.mightguy.criminalintentdemo.CrimeFragment$2
+ com.example.mightguy.criminalintentdemo.CrimeFragment$3
+ com.example.mightguy.criminalintentdemo.CrimeFragment$4
+ com.example.mightguy.criminalintentdemo.CrimeFragment$5
+ com.example.mightguy.criminalintentdemo.CrimeFragment$6
+ com.example.mightguy.criminalintentdemo.CrimeFragment$7
+ com.example.mightguy.criminalintentdemo.CrimeFragment$8
+ com.example.mightguy.criminalintentdemo.CrimeFragment$9
+com/example/mightguy/criminalintentdemo/CrimeListFragment.java
+ com.example.mightguy.criminalintentdemo.CrimeListFragment
+ com.example.mightguy.criminalintentdemo.CrimeListFragment$1
+ com.example.mightguy.criminalintentdemo.CrimeListFragment$2
+ com.example.mightguy.criminalintentdemo.CrimeListFragment$CrimeAdapter
+ com.example.mightguy.criminalintentdemo.CrimeListFragment$CrimeHolder
+com/example/mightguy/criminalintentdemo/CrimeListActivity.java
+ com.example.mightguy.criminalintentdemo.CrimeListActivity
